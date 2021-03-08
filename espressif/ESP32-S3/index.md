@@ -6,6 +6,9 @@ https://raw.githubusercontent.com/ESP32DE/draftdocs/main/espressif/ESP32-S3/esp3
 
 ESP Product Selector
 
+http://products.espressif.com:8000/#/product-selector
+
+
 ESP32-S3 is a low-power MCU-based SoC that supports 2.4 GHz Wi-Fi and Bluetooth® Low Energy (Bluetooth LE).
 
 ESP32-S3 has a complete Wi-Fi subsystem and a Bluetooth LE subsystem, State-of-the-art power and RF performance. 
