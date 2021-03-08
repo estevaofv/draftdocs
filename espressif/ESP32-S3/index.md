@@ -1,6 +1,7 @@
 <upload files>
 
 ESP32-S3 prerelease version 0.3
+
 https://raw.githubusercontent.com/ESP32DE/draftdocs/main/espressif/ESP32-S3/esp32-S3-V0.3En.pdf
 
 
